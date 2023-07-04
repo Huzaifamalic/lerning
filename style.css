@@ -1,0 +1,37 @@
+*{
+    margin:0 ;
+    
+
+    /* margin: auto;
+ */}
+ body{
+    border: 10px solid grey ;
+    
+ }
+
+.contener{
+   margin:  100px;
+    text-align: center;
+   
+}
+ul{
+
+    font-family: 'Ubuntu', sans-serif;
+}
+li{
+    display: inline;
+    margin-left: 10px;
+}
+hr{
+    text-align: center;
+}
+
+img{
+    margin: 20px;
+    display: inline;
+}
+li:hover{
+color: blue;
+cursor: pointer;
+
+}
